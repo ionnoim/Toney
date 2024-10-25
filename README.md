@@ -48,6 +48,7 @@ Install the required packages with:
 pip install numpy pyaudio scipy
 ```
 Recommendation: Use a Python Virtual Environment (venv)
+
 Note: If default devices are not being detected, make sure pulse audio is running (linux)
 
 
