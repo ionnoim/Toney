@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-Testing resonant frequencies can pose potential risks like damage to nearby objects, structures, equipment, and even possibly your own body. Extreme caution should be taken to ensure the safety of your environment before running scans, especially in the presence of fragile or complex equipment. The creator of this tool is not responsible for any damages, injuries, or consequences resulting from its use. Please ensure proper experimentation in controlled environments. Do NOT run this without knowing what you are doing. By using this software you agree to accept all responsibility for the outcomes.
+Testing resonant frequencies can pose potential risks like damage to nearby objects, structures, equipment, and even possibly your own body. (Think for example of a wine glass shattering to the sound of the voice of an opera singer). Extreme caution should be taken to ensure the safety of your environment before running scans, especially in the presence of fragile or complex equipment. The creator of this tool is not responsible for any damages, injuries, or consequences resulting from its use. Please ensure proper experimentation in controlled environments. Do NOT run this without knowing what you are doing. By using this software you agree to accept all responsibility for the outcomes.
 
 ---
 
