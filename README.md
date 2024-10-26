@@ -1,4 +1,5 @@
 # Toney The Tiger Resonant Frequency Scanner/Detector
+![tiger](path/to/toney.png)
 
 ## Disclaimer
 
