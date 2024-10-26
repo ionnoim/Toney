@@ -32,7 +32,7 @@ The quality and choice of equipment is also a huge factor.
 
 ## How It Works
 1. **Setup**: Provide the start and end frequencies.
-2. **Scan**: The program generates and plays tones for each frequency in the range.
+2. **Scan**: The program generates and plays tones for each frequency in the range. (100 hz steps)
 3. **Record and Analyze**: The system response is recorded via the microphone, and peaks in the signal are identified.
 4. **Refinement**: If resonance is detected, the scan can be refined with smaller frequency steps (10 Hz or 1 Hz).
 
