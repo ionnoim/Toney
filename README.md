@@ -52,6 +52,7 @@ Recommendation: Use a Python Virtual Environment (venv)
 
 Note: If default devices are not being detected, make sure pulse audio is running (linux)
 
+Toney is open-source software licensed under the [MIT License](LICENSE).
 
-Thanks for your interest in my work! 
+Thanks for your interest in my work!  
 ionnoim@proton.me
